@@ -43,10 +43,6 @@ jobs:
 - `repository_name` **Required** CodeCommit repository name.
 - `aws_region` **Required** Region of the CodeCommit repository.
 
-## License
-
-[MIT](LICENSE)
-
 ## Author
 
 [NaveenThangam](https://github.com/NaveenKumarThangamuthu/HikeOn_AWS_CodeCommit_Sync)
